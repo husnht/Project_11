@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="Cucumber NEW Framework" />
         <module name="Cucumber New" />
+        <module name="Cucumber_NEW_Framework" />
       </profile>
     </annotationProcessing>
   </component>
