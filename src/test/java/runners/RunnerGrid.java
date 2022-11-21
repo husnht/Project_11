@@ -16,7 +16,7 @@ import org.junit.runner.RunWith;
         },
         features = "src/test/resources/features/grid_test_case.feature",
         glue = {"stepDefinitions"},
-        tags = "@cross_browser_test",
+        tags = "@deneme",
         dryRun = false
 
 )
