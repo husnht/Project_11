@@ -20,6 +20,6 @@ import org.junit.runner.RunWith;
         dryRun = false
 
 )
-public class RunnerGrid {
+public class Runner {
 
 }
